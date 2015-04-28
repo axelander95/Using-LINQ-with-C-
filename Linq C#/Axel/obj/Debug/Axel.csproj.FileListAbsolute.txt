@@ -1,0 +1,5 @@
+C:\Users\Mirella & Andrés\Desktop\Tuto\Axel\Axel\bin\Axel.dll
+C:\Users\Mirella & Andrés\Desktop\Tuto\Axel\Axel\bin\Axel.pdb
+C:\Users\Mirella & Andrés\Desktop\Tuto\Axel\Axel\obj\Debug\Axel.dll
+C:\Users\Mirella & Andrés\Desktop\Tuto\Axel\Axel\obj\Debug\Axel.pdb
+C:\Users\Mirella & Andrés\Desktop\Tuto\Axel\Axel\obj\Debug\Axel.csprojResolveAssemblyReference.cache
